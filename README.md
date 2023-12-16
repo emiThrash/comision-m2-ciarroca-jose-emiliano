@@ -37,10 +37,8 @@
 
  Correr cliente: 
 - cd frontend
-- npm run install
 - npm run dev
 
  Correr servidor: 
 - cd backend
-- npm run i
 - npm run dev
