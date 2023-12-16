@@ -2,19 +2,20 @@
 # Proyecto Final - Épica Tramo III
 
 # Aplicación de Viajes -
-Sitio web inspirado en Airbnb que permite:
-- Visualizar publicaciones sobre viajes
-- Crear, modificar y eliminar publicaciones
-- Registrarse, iniciar sesión
-- Agregar comentarios
 
 # Tecnologías que deben estar intaladas previamente
 - Node.js
 - MongoDB
 
-# Ejecutar las tecnologías
-- Mongodb
-- Mongocompass
+# Tecnologías utilizadas
+- VITE
+- JSX
+- REACT
+- NODE
+- EXPRESS
+- MONGODB
+- SEQUELIZE
+- TAILWIND
 
 
 ## Para correr el proyecto debe configurar desde terminal:
