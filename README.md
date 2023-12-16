@@ -12,9 +12,15 @@ Sitio web inspirado en Airbnb que permite:
 - Node.js
 - MongoDB
 
-# Ejecutar las tecnologías
-- Mongodb
-- Mongocompass
+# Tecnologías utilizadas
+- VITE
+- JSX
+- REACT
+- NODE
+- EXPRESS
+- MONGODB
+- SEQUELIZE
+- TAILWIND
 
 
 ## Para correr el proyecto debe configurar desde terminal:
