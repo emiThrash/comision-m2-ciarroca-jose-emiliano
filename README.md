@@ -8,13 +8,13 @@
 - MongoDB
 
 # Tecnologías utilizadas
-- VITE
-- JSX
+
 - REACT
 - NODE
 - EXPRESS
+- JSX
 - MONGODB
-- SEQUELIZE
+- VITE
 - TAILWIND
 
 
